@@ -217,7 +217,7 @@ class ArvoreGenerica<T> {
     }
 }
 
-public class AplicativoArvoreGenerica {
+public class ArvoreGenerica {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             ArvoreGenerica<Integer> arvore = new ArvoreGenerica<>();
